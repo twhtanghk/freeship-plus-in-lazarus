@@ -1,0 +1,8 @@
+version: '2'
+services:
+  freeship:
+    image: twhtanghk/freeship-plus-in-lazarus
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    environment:
+      - DISPLAY=unix:0.0
