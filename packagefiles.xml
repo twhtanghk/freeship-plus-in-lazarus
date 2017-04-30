@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <UserPkgLinks Version="3" Count="1">
+    <Item1>
+      <Name Value="FreePackage"/>
+      <Filename Value="/usr/src/app/Packages/FreePackage.lpk"/>
+      <LastUsed Value="2017/04/30 12:33:24"/>
+    </Item1>
+  </UserPkgLinks>
+  <GlobalPkgLinks Version="3" Count="34">
+    <Item1>
+      <Name Value="cairocanvas_pkg"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item1>
+    <Item2>
+      <Name Value="chmhelppkg"/>
+      <Version Minor="2"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item2>
+    <Item3>
+      <Name Value="codetools"/>
+      <Version Major="1" Release="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item3>
+    <Item4>
+      <Name Value="datetimectrls"/>
+      <Version Major="1" Minor="5" Release="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item4>
+    <Item5>
+      <Name Value="dbflaz"/>
+      <Version Minor="1" Release="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item5>
+    <Item6>
+      <Name Value="debuggerintf"/>
+      <Version Minor="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item6>
+    <Item7>
+      <Name Value="editormacroscript"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item7>
+    <Item8>
+      <Name Value="externhelp"/>
+      <Version Major="1" Minor="3"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item8>
+    <Item9>
+      <Name Value="fcl"/>
+      <Version Major="1" Release="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item9>
+    <Item10>
+      <Name Value="fpcunitide"/>
+      <Version Minor="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item10>
+    <Item11>
+      <Name Value="ideintf"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item11>
+    <Item12>
+      <Name Value="instantfpclaz"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item12>
+    <Item13>
+      <Name Value="jcfidelazarus"/>
+      <Version Major="2"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item13>
+    <Item14>
+      <Name Value="lazcontrols"/>
+      <Version Major="1" Release="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item14>
+    <Item15>
+      <Name Value="lazdebuggergdbmi"/>
+      <Version Minor="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item15>
+    <Item16>
+      <Name Value="lazutils"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item16>
+    <Item17>
+      <Name Value="lcl"/>
+      <Version Major="1" Minor="6" Release="2"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item17>
+    <Item18>
+      <Name Value="lclbase"/>
+      <Version Major="1" Minor="6" Release="2"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item18>
+    <Item19>
+      <Name Value="leakview"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item19>
+    <Item20>
+      <Name Value="lhelpcontrolpkg"/>
+      <Version Minor="2"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item20>
+    <Item21>
+      <Name Value="memdslaz"/>
+      <Version Major="1" Minor="2" Release="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item21>
+    <Item22>
+      <Name Value="pascalscript"/>
+      <Version Build="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item22>
+    <Item23>
+      <Name Value="printer4lazarus"/>
+      <Version Minor="5"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item23>
+    <Item24>
+      <Name Value="printers4lazide"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item24>
+    <Item25>
+      <Name Value="projtemplates"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item25>
+    <Item26>
+      <Name Value="runtimetypeinfocontrols"/>
+      <Version Minor="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item26>
+    <Item27>
+      <Name Value="sdflaz"/>
+      <Version Minor="1" Release="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item27>
+    <Item28>
+      <Name Value="sqldblaz"/>
+      <Version Major="1" Release="2"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item28>
+    <Item29>
+      <Name Value="synedit"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item29>
+    <Item30>
+      <Name Value="syneditdsgn"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item30>
+    <Item31>
+      <Name Value="tachartlazaruspkg"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item31>
+    <Item32>
+      <Name Value="todolistlaz"/>
+      <Version Major="1" Release="2"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item32>
+    <Item33>
+      <Name Value="turbopoweripro"/>
+      <Version Major="1"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item33>
+    <Item34>
+      <Name Value="turbopoweriprodsgn"/>
+      <LastUsed Value="2017/04/30 12:32:59"/>
+    </Item34>
+  </GlobalPkgLinks>
+</CONFIG>
